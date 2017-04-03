@@ -17,7 +17,7 @@
   "dependencies": {
     "jiff": "^0.7.3",
     "mobx": "^3.1.7"
-  }
+  },
   "devDependencies": {
     "typescript": "^2.2.1"
   }
