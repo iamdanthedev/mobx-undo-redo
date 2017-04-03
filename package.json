@@ -1,0 +1,24 @@
+{
+  "name": "mobx-logger",
+  "version": "0.0.1",
+  "description": "MobX powered store's history tool (undo/redo)",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rasdaniil@bitbucket.org/rasdaniil/mobx-logger.git"
+  },
+  "author": "Daniel Khoroshko (rasdaniil@gmail.com)",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/rasdaniil/mobx-logger#readme",
+  
+  "dependencies": {
+    "jiff": "^0.7.3",
+    "mobx": "^3.1.7",
+  }
+  "devDependencies": {
+    "typescript": "^2.2.1",  
+  }
+}
